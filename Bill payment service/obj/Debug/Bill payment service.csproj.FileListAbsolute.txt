@@ -1,0 +1,21 @@
+c:\users\orion\documents\visual studio 2015\Projects\Bill payment service\Bill payment service\bin\Debug\Bill payment service.exe.config
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\bin\Debug\Database.mdf
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\bin\Debug\Database_log.ldf
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\bin\Debug\Bill payment service.exe
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\bin\Debug\Bill payment service.pdb
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Admin.g.cs
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\MainWindow.g.cs
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\User.g.cs
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\App.g.cs
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service_Content.g.cs
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service_MarkupCompile.cache
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service_MarkupCompile.lref
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Admin.baml
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\MainWindow.baml
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\User.baml
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service.g.resources
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill_payment_service.Properties.Resources.resources
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service.csproj.GenerateResource.Cache
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service.exe
+C:\Users\Orion\Documents\Visual Studio 2015\Projects\Bill payment service\Bill payment service\obj\Debug\Bill payment service.pdb
